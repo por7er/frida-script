@@ -1,4 +1,3 @@
-# frida-script
-firda脚本收集
+# firda脚本收集
 
-frida-snippets https://github.com/iddoeldor/frida-snippets
+[frida-snippets](https://github.com/iddoeldor/frida-snippets)
